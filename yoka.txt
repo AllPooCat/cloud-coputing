@@ -1,2 +1,4 @@
 nama    : yoka angga prawira
 matkul  : Cloud Computing
+kelas   : Q
+jk      : laki-laki
